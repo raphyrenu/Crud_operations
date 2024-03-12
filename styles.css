@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+
+}
+form {
+    background-color: dodgerblue;
+    padding: 50px;
+    text-align: center;
+    border-radius: 10px;
+    
+}
+input {
+    margin-bottom: 10px;
+}
+button {
+    margin-top: 20px;
+    width: 60%;
+    border-radius: 5px;
+}

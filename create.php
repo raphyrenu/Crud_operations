@@ -21,6 +21,6 @@ $conn->close();
 
 ?>
 <html>
-    <a class="btn btn-info" href="signup.html"><br><br>back</a>
+    <a class="btn btn-info" href="signup.html"><br><br>backed</a>
     <a class="btn btn-info" href="read.php"><br><br>view record from database</a>
 </html>
